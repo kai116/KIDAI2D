@@ -8,6 +8,7 @@ public class Fox : MonoBehaviour          //類別 類別名稱
     //開始事件：遊戲開始時執行一次
     private void Start()
     {
-        
+        //API 把訊息輸出到 Unity
+        Debug.Log("???");
     }
 }
